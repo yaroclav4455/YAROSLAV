@@ -11,7 +11,7 @@ namespace YAROSLAV
         static void Main(string[] args)
         {
             string name = "Ярослав";
-            Console.WriteLine($"Привет, {name}");
+            Console.WriteLine($"Доброе утро, {name}");
 
             Console.ReadLine();
         }
